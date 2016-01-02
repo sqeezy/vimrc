@@ -1,4 +1,4 @@
-H1 Vim Configuration Repo
+# Vim Configuration Repo
 
-H2 Usage
+## Usage
 To use this configuration you have to sym-link or copy vimrc and vim to your home directory and add "." at the start of the name.
