@@ -91,7 +91,6 @@ endif
 " SYNTAX HIGHLIGHTING:
 set t_Co=256
 syntax on
-colorscheme badwolf
 set bs=2
 syntax enable
 set tabstop=2
