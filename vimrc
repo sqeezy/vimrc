@@ -101,3 +101,5 @@ set cursorline
 set wildmenu
 set showmatch
 
+colorscheme vividchalk
+
